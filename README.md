@@ -28,4 +28,32 @@ To run the User Task Manager on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/user-task-manager.git
 
+## Usage
 
+The User Task Manager provides various options:
+
+- User Login: Enter your username and password to access your tasks.
+- Main
+-  Menu: After login, you can choose from the following options:
+  - 'a' - Add a new task
+  - 'va' - View all tasks
+  - 'vm' - View your tasks
+  - 'e' - Exit
+  - 'r' - Register a new user (admin-only)
+  - 's' - View statistics (admin-only)
+
+## Example
+
+Suppose you want to add a new task:
+
+1. Log in with your username and password.
+2. Choose 'a' to add a new task.
+3. Enter the task details, such as assignment, title, description, due date (in YYYY-MM-DD format), and status.
+
+You can also use 'va' to view all tasks or 'vm' to view your tasks.
+
+## Credits
+
+- https://github.com/Savil-hub - Creator of Creator of the User Task Manager
+  
+Feel free to contribute to this project or report any issues by opening a GitHub issue.
